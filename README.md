@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PMonteiro13
 - 👀 I’m interested in ... adquirir conhecimento e viver novas experiências.
-- 🌱 I’m currently learning ... HTML,css, JS...
+- 🌱 I’m currently learning ... HTML,CSS, JS... para DevFrontEnd.
 - 💞️ I’m looking to collaborate on ... sugestões e adicionando novos aprendizados.
 - 📫 How to reach me ... 92 981541075/ patrickpmb1305@gmail.com 
 
